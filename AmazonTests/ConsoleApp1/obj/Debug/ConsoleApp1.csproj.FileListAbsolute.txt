@@ -1,0 +1,11 @@
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\bin\Debug\AmazonTests.dll
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\bin\Debug\WebDriver.dll
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\bin\Debug\AmazonTests.pdb
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\bin\Debug\WebDriver.xml
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\gabriel\source\repos\AmazonTests\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,8 @@
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\obj\Debug\Pages.csproj.CoreCompileInputs.cache
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\bin\Debug\AmazonTests.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\bin\Debug\AmazonTests.pdb
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\bin\Debug\WebDriver.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\bin\Debug\WebDriver.xml
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\obj\Debug\AmazonTests.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\obj\Debug\AmazonTests.pdb
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\obj\Debug\Pages.csprojResolveAssemblyReference.cache

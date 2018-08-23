@@ -1,0 +1,2 @@
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\obj\Debug\AmazonTests.csprojResolveAssemblyReference.cache
+c:\users\gabriel\source\repos\AmazonTests\AmazonTests\obj\Debug\AmazonTests.csproj.CoreCompileInputs.cache

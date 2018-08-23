@@ -1,0 +1,17 @@
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\AmazonUITests.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\AmazonUITests.pdb
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\AmazonTests.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\WebDriver.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\AmazonTests.pdb
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\bin\Debug\WebDriver.xml
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\obj\Debug\AmazonUITests.csprojResolveAssemblyReference.cache
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\obj\Debug\AmazonUITests.csproj.CoreCompileInputs.cache
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\obj\Debug\AmazonUITests.dll
+c:\users\gabriel\source\repos\AmazonTests\AmazonUITests\obj\Debug\AmazonUITests.pdb
